@@ -1,6 +1,6 @@
 You found the first question!
 
-1. What is your favorite song? Hymn for the Weekend
+1. What is your favorite song? Jeezy
 
 Once you've answered, add and commit your change, then push that new commit to the appropriate branch in your fork.
 
